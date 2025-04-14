@@ -1,16 +1,16 @@
-## Hi there 👋
+### 👋 Hi, I'm Mahammad Zafer Sheik R D  
+🎯 DevOps Beginner | Learning Linux • Git • Jenkins • Docker • Ansible • Kubernetes
 
-<!--
-**iamzafarshaikh/iamzafarshaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently Learning:
+- Shell Scripting
+- CI/CD with Jenkins
+- Docker & Containers
+- Infrastructure as Code (Terraform)
 
-Here are some ideas to get you started:
+📂 Repositories:
+- 🔧 Linux commands & notes
+- 🐳 Docker practice
+- 🛠️ Jenkins pipeline examples
+- 📦 Ansible playbooks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Let's connect!
